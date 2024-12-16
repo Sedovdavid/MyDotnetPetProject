@@ -1,0 +1,14 @@
+C:\Users\Я\Projects\C#\MyDotnetPetProject\bin\Debug\net9.0\MyDotnetPetProject.exe
+C:\Users\Я\Projects\C#\MyDotnetPetProject\bin\Debug\net9.0\MyDotnetPetProject.deps.json
+C:\Users\Я\Projects\C#\MyDotnetPetProject\bin\Debug\net9.0\MyDotnetPetProject.runtimeconfig.json
+C:\Users\Я\Projects\C#\MyDotnetPetProject\bin\Debug\net9.0\MyDotnetPetProject.dll
+C:\Users\Я\Projects\C#\MyDotnetPetProject\bin\Debug\net9.0\MyDotnetPetProject.pdb
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.AssemblyInfoInputs.cache
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.AssemblyInfo.cs
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.csproj.CoreCompileInputs.cache
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.dll
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\refint\MyDotnetPetProject.dll
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.pdb
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\MyDotnetPetProject.genruntimeconfig.cache
+C:\Users\Я\Projects\C#\MyDotnetPetProject\obj\Debug\net9.0\ref\MyDotnetPetProject.dll
